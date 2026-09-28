@@ -6,7 +6,7 @@
 
 # This EXE file helps you easily create and customize your own QR code.
 
-<a href="https://github.com/amir-v-z/QR_Studio/raw/refs/heads/main/QR_Studio.exe"><img src="https://media.giphy.com/media/n1z5Lo9ikIh1cYvmGJ/giphy.gif?cid=790b761149dglbzomk4o6s65wiid8txvusyiptcootpjlah8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=150></a>
+<a href="https://github.com/amir-v-z/QR-Studio/raw/refs/heads/main/QR_Studio.exe"><img src="https://media.giphy.com/media/n1z5Lo9ikIh1cYvmGJ/giphy.gif?cid=790b761149dglbzomk4o6s65wiid8txvusyiptcootpjlah8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=150></a>
 
 ## Screenshots of the program
 
